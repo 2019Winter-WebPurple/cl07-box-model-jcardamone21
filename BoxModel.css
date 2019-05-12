@@ -1,0 +1,40 @@
+/*
+* Jennifer Cardamone
+* Due Date
+* Box Model
+*/
+
+/* The universal selector */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body properties here */
+body {
+    width: auto;
+    border: 3px dotted black;
+    padding: 20px;
+    margin: auto;
+}
+
+main { /* Properties of the main */
+    width: auto;
+    border: 3px solid black;
+    padding: 20px; 
+    margin: auto;
+}
+
+h1 { /* Properties of h1 */
+    width: auto;
+    border: 1px dashed black;
+    padding: 10px;
+    margin: 10px;
+}
+
+p { /* Properties of the paragraph */
+     width: auto;
+    border: 1px dashed black;
+    padding: 10px;
+    margin: 10px;
+}
